@@ -108,6 +108,8 @@ Fully Connected (256 → 192 → 96 → 3)
 ├── preprocessing/
 │   ├── binary_v2.py
 │   ├── readme.docx
+│   ├── README_auto_binary.md
+│   ├── auto_binary.py
 │
 ├── model/
 │   ├── RF_Group.ipynb
