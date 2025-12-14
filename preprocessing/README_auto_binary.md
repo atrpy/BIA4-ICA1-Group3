@@ -10,6 +10,12 @@ The goal is to automatically generate standardized **binary masks of dendritic s
 The pipeline is designed as a **data-driven alternative to classical thresholding-based preprocessing**, leveraging a lightweight U-Net model trained on paired intensity–binary images.  
 The resulting binary masks can be directly used for downstream morphological or shape-based analysis.
 
+## Qualitative preprocessing results
+
+Example of image preprocessing results.
+From left to right: original 2PLSM intensity image, rule-based binary mask, and learning-based segmentation output.
+The preprocessing aims to generate standardized binary representations of dendritic structures for downstream shape-based analysis.
+<img width="1189" height="399" alt="ebd0cf60fbc7bd63445e8fe3c0b607fb" src="https://github.com/user-attachments/assets/539cf8ec-8669-4e3f-9a42-857dda0a904f" />
 
 
 ## Processing Logic
@@ -162,5 +168,8 @@ It is **not intended as a fully general-purpose segmentation framework** without
 - Training can be resumed from saved checkpoints without re-running the full pipeline.
 
 - Model checkpoints and training histories are saved automatically.
+
+
+
 
 
