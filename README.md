@@ -106,10 +106,10 @@ Fully Connected (256 → 192 → 96 → 3)
 │   ├── data_intensity_3/
 │
 ├── preprocessing/
-│   ├── binary_v2.py
-│   ├── readme.docx
-│   ├── README_auto_binary.md
 │   ├── auto_binary.py
+│   ├── manual_binary.py
+│   ├── README_auto_binary.md
+│   ├── README_manual_binary.md
 │
 ├── model/
 │   ├── RF_Group.ipynb
