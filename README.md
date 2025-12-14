@@ -134,10 +134,10 @@ Fully Connected (256 → 192 → 96 → 3)
 
 Release
 ├── SpineClassfier_for_mac/
-│   ├── SpineClassfier_for_Mac.zip/
+│   ├── spine_mac.zip/
 │   
 ├── SpineClassfier_for_Windows/
-│   ├── SpineClassfier_for_Windows.zip/
+│   ├── Spine_APP.zip/
 
 ```
 
