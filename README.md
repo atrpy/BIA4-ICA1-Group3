@@ -134,7 +134,7 @@ Fully Connected (256 → 192 → 96 → 3)
 │
 └── README.md
 
-Release
+Release [download software here!]
 ├── SpineClassfier_for_mac/
 │   ├── spine_mac.zip/
 │   
